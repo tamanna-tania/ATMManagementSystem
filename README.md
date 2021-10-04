@@ -1,2 +1,2 @@
 # ATMManagementSystem
- It is a MVC project using ASP.Net,Html
+ It is an MVC project using ASP.Net,Html
